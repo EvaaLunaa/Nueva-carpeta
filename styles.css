@@ -1,0 +1,281 @@
+.header{
+    position: relative;
+    background-color:rgb(232, 188, 205) ;
+    width: 1300px;
+    height: 100px;
+}
+.mislinks{
+    position: relative;
+    bottom: 50px;
+    right: 500px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+.buscar{
+    position: relative;
+    bottom: 55px;
+    right: 60px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+.config{
+    position: relative;
+    bottom: 50px;
+    right: 100px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+}
+.boton{
+    float: right;
+    position:relative;
+    left: 340px;
+    bottom: 30px;
+    width: 98px;
+    height: 20px;
+    background-color: rgb(242, 231, 236) ;
+    border:whitesmoke solid 3px;
+    box-shadow:rgb(182, 180, 180) 4px 6px 10px ;
+}
+
+.home{
+    color: whitesmoke;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+}
+
+.caja1{
+    background-color: rgb(242, 231, 236);
+    width: 900px;
+    height: 500px;
+    border-radius: 15px;
+    position: relative;
+    top: 30px;
+    box-shadow:  rgb(182, 180, 180) 4px 6px 10px ;
+
+}
+.nombre{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 30px;
+    top: 50px;
+}
+
+.banner{
+    height: 150px;
+    background-color: rgb(232, 188, 205);
+    border-radius: 15px;
+}
+
+.profileImg{
+    overflow: hidden;
+    width: 160px;
+    height: 160px;
+    border: solid  rgb(242, 231, 236);
+    border-radius: 50%;
+    position:relative;
+    top:50px;
+    left: 20px;
+}
+.infoPersonal{
+    color: rgb(62, 58, 58);
+    position:relative;
+    top: 40px;
+    left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.intereses{
+    color: rgb(62, 58, 58);
+    position:relative;
+    top: 50px;
+    left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.edit{
+    background-color:  rgb(232, 188, 205);
+    border-radius: 15px;
+    border:  rgb(234, 165, 192) solid 5px;
+    position: relative;
+    top: 60px;
+    left: 50px;
+    width: 100px;
+    height:25px;
+}
+#editarperfil{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 10px;
+    bottom: 15px;
+}
+
+.conexiones{
+    border-radius: 15px;
+    background-color:   rgb(242, 231, 236) ;
+    width: 300px;
+    height: 500px;
+    position:relative;
+    bottom: 500px;
+    right: 40px;
+    float: right;
+    box-shadow:  rgb(182, 180, 180) 4px 6px 10px ;
+}
+.bannerconexiones{
+    background-color:  rgb(232, 188, 205);
+    border-radius: 15px;
+    height: 70px;
+    position:relative;
+    bottom: 20px;
+}
+.conexiontexto{
+    position: relative;
+    left: 30px;
+    top: 20px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.perfilfinn{
+    overflow: hidden;
+    position: relative;
+    left: 10px;
+    border: solid white 3px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+.cajafinn{
+    position: relative;
+    bottom: 70px;
+    left: 110px;
+}
+#finnMertens{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.cajajake{
+    position: relative;
+    bottom: 120px;
+    left: 110px;
+}
+.perfiljake{
+    overflow: hidden;
+    position: relative;
+    left: 10px;
+    bottom: 50px;
+    border: solid lightgreen 3px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+#jakeMertens{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.cajabmo{
+    position: relative;
+    bottom: 170px;
+    left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.perfilbmo{
+    overflow: hidden;
+    position: relative;
+    left: 10px;
+    bottom: 100px;
+    border: solid lightgreen 3px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+#BMO{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.cajafern{
+    position: relative;
+    bottom: 220px;
+    left: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.perfilfern{
+    overflow: hidden;
+    position: relative;
+    left: 10px;
+    bottom: 150px;
+    border: solid white 3px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+#fern{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.cajaestudios{
+background-color: rgb(242, 231, 236);
+width: 900px;
+height: 200px;
+position:relative;
+top: 20px;
+border-radius: 15px;
+box-shadow:  rgb(182, 180, 180) 4px 6px 10px ;
+}
+.educacion{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.textolinea1{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.textolinea2{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.bannersolicitudes{
+    background-color:  rgb(232, 188, 205);
+    border-radius: 15px;
+    height: 70px;
+    position:relative;
+    bottom: 20px;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.textosolicitud{
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+.solicitudes{
+    border-radius: 15px;
+    background-color:   rgb(242, 231, 236) ;
+    width: 300px;
+    height: 200px;
+    position:relative;
+    left: 250px;
+    bottom: 180px;
+    box-shadow:  rgb(182, 180, 180) 4px 6px 10px ;
+    float: right;
+}
+.todaslassolicitudes{
+    position:relative;
+    left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
